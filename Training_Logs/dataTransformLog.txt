@@ -1,0 +1,6 @@
+2022-10-07/10:16:53		 CreditCardPaymentHistory_28011960_120210.csv: Quotes added successfully!!
+2022-10-07/10:18:37		 CreditCardPaymentHistory_28011960_120210.csv: Quotes added successfully!!
+2022-10-07/10:20:28		 CreditCardPaymentHistory_28011960_120210.csv: Quotes added successfully!!
+2022-10-07/10:25:29		 CreditCardPaymentHistory_28011960_120210.csv: Quotes added successfully!!
+2022-10-07/10:27:13		 CreditCardPaymentHistory_28011960_120210.csv: Quotes added successfully!!
+2022-10-07/10:31:27		 CreditCardPaymentHistory_28011960_120210.csv: Quotes added successfully!!

@@ -1,0 +1,6 @@
+2022-10-07/10:16:53		Valid File name!! File moved to GoodRaw Folder :: CreditCardPaymentHistory_28011960_120210.csv
+2022-10-07/10:18:37		Valid File name!! File moved to GoodRaw Folder :: CreditCardPaymentHistory_28011960_120210.csv
+2022-10-07/10:20:28		Valid File name!! File moved to GoodRaw Folder :: CreditCardPaymentHistory_28011960_120210.csv
+2022-10-07/10:25:29		Valid File name!! File moved to GoodRaw Folder :: CreditCardPaymentHistory_28011960_120210.csv
+2022-10-07/10:27:13		Valid File name!! File moved to GoodRaw Folder :: CreditCardPaymentHistory_28011960_120210.csv
+2022-10-07/10:31:27		Valid File name!! File moved to GoodRaw Folder :: CreditCardPaymentHistory_28011960_120210.csv

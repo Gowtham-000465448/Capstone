@@ -13,7 +13,7 @@ class dataTransform:
 
      def replaceMissingWithNull(self):         
 
-          log_file = open("Training_Logs/dataTransformLog.txt", 'a+')
+          log_file = open("Training_Logs/Training_Log.txt", 'a+')
           try:
                onlyfiles = [f for f in listdir(self.dataPath)]
                for file in onlyfiles:

@@ -15,7 +15,7 @@ class trainModel:
 
     def __init__(self):
         self.log_writer = log_system.LoggerApp()
-        self.file_object = open("Training_Logs/ModelTrainingLog.txt", 'a+')
+        self.file_object = open("Training_Logs/Training_Log.txt", 'a+')
 
     def getData(self):
         training_file='Training_FileFromDB/InputFile.csv'

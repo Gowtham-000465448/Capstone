@@ -10,8 +10,8 @@ class train_validation:
         self.raw_data = Raw_Data_validation(path)
         self.dataTransform = dataTransform()
         self.dBOperation = dbOperationDB()   
-        self.cwd=os.getcwd()
-        self.file_object = open(self.cwd+'\Training_Main_Log.txt', 'a+')
+        self.cwd=os.getcwd()       
+        self.file_object = open(self.cwd+"\Training_Logs\Training_Log.txt", 'a+')
         self.log_writer = log_system.LoggerApp()
 
     def train_validation(self):
@@ -56,7 +56,7 @@ class train_validation:
             self.log_writer.log(self.file_object, "Extracting csv file from table")
             # export data in table to csvfile
             self.dBOperation.selectingDatafromtableintocsv('Training')
-
+            self.log_writer.log(self.file_object, 'Start of Training')
             self.file_object.close()
 
         except Exception as e:
